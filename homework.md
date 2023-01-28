@@ -33,3 +33,5 @@ __*Полужирный наклонный шрифт*__
 ## Ссылки указываются так (нажми на нее):
 
 [Ccылка](https://gist.github.com/Jekins/2bf2d0638163f1294637#Blockquotes)
+
+Well done, Valeria!
